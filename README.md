@@ -23,14 +23,4 @@
 - фейерверки за окном
 
 Вообще я веселый кот, очень полезный в хозяйстве.
-
-
-![](https://downloader.disk.yandex.ru/preview/83cebdf1323fbc6abfa4493d0b7fb846234d683c3433cfd7825364a9c8fe3fa7/63af0602/emJjdxILAJ4vz3qyzsOtQKleaXQAcVwuERbypVrBsN6TC7_ysuhsaW8hbP-uv_Dr1GQIExoZr4K3TJ5YIYel6Q%3D%3D?uid=0&filename=2022-08-26%2018-48-28.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
-
-
-
-
-
-
-
-
+![](/IMG/cat.JPG)
